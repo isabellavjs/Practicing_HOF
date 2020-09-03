@@ -1,3 +1,3 @@
-### Practicing HOF - exercises to improve the practice of HOF
+## Practicing HOF - exercises to improve the practice of HOF
 
-## Map and reduce
+### Map and reduce
